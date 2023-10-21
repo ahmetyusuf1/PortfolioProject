@@ -12,6 +12,4 @@
   <li>Contact</li>
 </ul>
 
-<h1>Screen Gif</h1>
 
-<img src="js.png"/>
