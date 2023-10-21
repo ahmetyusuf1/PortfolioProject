@@ -14,4 +14,4 @@
 
 <h1>Screen Gif</h1>
 
-<img src="PortfolioProjectScreenGif.gif"/>
+<img src="js.png"/>
