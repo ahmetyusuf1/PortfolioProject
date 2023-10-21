@@ -14,4 +14,4 @@
 
 <h1>Screen Gif</h1>
 
-<img src="./img/PortfolioProjectScreenGif.gif"/>
+<img src="PortfolioProjectScreenGif.gif"/>
