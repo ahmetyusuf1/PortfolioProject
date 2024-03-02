@@ -1,7 +1,7 @@
 <h1>Portfolio Project</h1>
 <p>It is a simple portfolio website using HTML and CSS.</p>
 
-<h2>Project Sections</h2>
+<h2>Project Content</h2>
 
 <ul>
   <li>Home Page</li>
